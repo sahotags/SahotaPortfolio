@@ -1,6 +1,0 @@
-{
-  "name": "Sahota Family Investment Portfolio",
-  "description": "Real-time family wealth dashboard, property portfolio tracking, managed investments, permission management, secure MFA, audit logging, document attachment, and automated tax reports.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
